@@ -1,0 +1,6 @@
+# Wi-Fi credentials, never commit these
+firmware/ps4_ambilight_ir_bridge/config.h
+# Build output / editor files
+build/
+.vscode/
+.DS_Store
